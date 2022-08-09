@@ -1,3 +1,6 @@
+# Tolerant stream
+I reimplement the basic structure of stream in Java
+
 ## Test Repository instructions
 
 #### Test tool & command
